@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dublin Ianuary the 28th A true and perfect occurrance of the present state of Dublin. And of every severall passage betweene the Protestants and the rebells there. Beeng the substance of severall letters which was sent from Sir Henry Tichborne, and Captaine Studley, to some friends of theirs now resident heere. Which letters by reason of their true relation were desired by divers gentlemen to be printed, to give this citie a full satisfaction, whose names are here incerted and now published, by W.N. gent.</title>
+            <author>W. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53031</idno>
+            <idno type="STC">Wing N82A</idno>
+            <idno type="STC">ESTC R216403</idno>
+            <idno type="EEBO-CITATION">99828134</idno>
+            <idno type="PROQUEST">99828134</idno>
+            <idno type="VID">32561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1855:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dublin Ianuary the 28th A true and perfect occurrance of the present state of Dublin. And of every severall passage betweene the Protestants and the rebells there. Beeng the substance of severall letters which was sent from Sir Henry Tichborne, and Captaine Studley, to some friends of theirs now resident heere. Which letters by reason of their true relation were desired by divers gentlemen to be printed, to give this citie a full satisfaction, whose names are here incerted and now published, by W.N. gent.</title>
+                  <author>W. N.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tichborne, Henry, --  Sir, 1581?-1667.</term>
+               <term>Studley, --  Captain.</term>
+               <term>Dublin (Ireland) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32561:1"/>
+            <pb facs="tcp:32561:1"/>
+            <p>DVBLIN Ianuary the 28<hi rend="sup">th.</hi>
+            </p>
+            <p>A TRVE AND PERFECT Occurrance of the preſent ſtate of <hi>DVBLIN.</hi>
+            </p>
+            <p>And of every ſeverall paſſage be<g ref="char:EOLhyphen"/>tweene the Proteſtants and the Rebells there.</p>
+            <p>BEENG The ſubſtance of ſeverall Let<g ref="char:EOLhyphen"/>ters which was ſent from Sir <hi>Henry Tichborne,</hi> and Captaine <hi>Studley,</hi> to ſome friends of theirs now reſident heere.</p>
+            <p>Which Letters by Reaſon of their true re<g ref="char:EOLhyphen"/>lation were deſired by divers Gentlemen to be Printed, to give this Citie a full ſatiſ<g ref="char:EOLhyphen"/>faction, whoſe names are here in<g ref="char:EOLhyphen"/>certed and now publiſhed, By <hi>W. N.</hi> Gent.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Thompſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:32561:2"/>
+            <pb facs="tcp:32561:2"/>
+            <opener>
+               <dateline>DVBLIN <date>The twentieth Eight of Ianuary.</date>
+               </dateline>
+            </opener>
+            <p>YEſterday Captaine <hi>Studley</hi> returned hi<g ref="char:EOLhyphen"/>ther, and brought us Letters from Sir <hi>Henry Tichborne,</hi> at the entrance of our Shipping, our men were encountred by many thouſand of the Rebells on both ſides of the ri<g ref="char:EOLhyphen"/>ver where they exchanged a thouſand ſhotts, in the end the enemie having loſt three ſcore men, and wee nor a man; our ſhipping fired their paſſage to the towne where you may ima<g ref="char:EOLhyphen"/>gine they were very well and joyfully received as in deede they were. On wedneſday morning ſome three hundred of the Rebells an howre be<g ref="char:EOLhyphen"/>fore day through the treachery of ſome Papiſts
+<pb n="4" facs="tcp:32561:3"/>of the towne had broken downe an old doore in the towne wall, &amp; ſo got into the towne, &amp; were advanced in the ſtreets in rancke and file before the Larum given, and a little before day they were diſcovered, and Sir <hi>Henry</hi> and his Soul<g ref="char:EOLhyphen"/>diers ſo played the men, as they killed the moſt of them, tooke three ſcore priſoners, and ſome leaping over the wall broke their neckes, ſome lye yet hidden in ſome of the Townes-mens houſes as ſome priſoners informe; ſo the towne was preſerved with that ſlaughter of the enemies and not above foure of our men killed; the fight being hot, and feirce in the night, ſir <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> leaſt his Souldiers ſhould hurt one another, hee cauſed them to put white papers in their harts to difference them from the enemie.</p>
+            <p>On Thurſeday our Pinnace was comming a<g ref="char:EOLhyphen"/>way, ſhe ſtrucke aground in the Harbour too far for ſir <hi>Henry</hi> to relieve them, and too neere the Rebells, where there was a terrible fight, our poore Pinnace lying a ground, being not able to uſe her Ordinance; many Muskets ſhot on both ſides, in the ende the Rebbels waded to the ſide of the Pinnance, being but knee deepe above a hundred of them, and fell on the Pin<g ref="char:EOLhyphen"/>nace with Iron Crowes and other engins to bat<g ref="char:EOLhyphen"/>ter her) Captaine <hi>Studley</hi> threw then amongſt them ſome granadoes which killed many of them, and by the helpe of his Grannadoes having ſlaine many of them, they ranne away and quit<g ref="char:EOLhyphen"/>ted
+<pb n="5" facs="tcp:32561:3"/>the Pinnace, whereof they held themſelves ſo ſure, untill the Granadoes ſlew amongſt them, as that they thought <hi>Studley</hi> their pri<g ref="char:EOLhyphen"/>ſoner, bidding him yeeld.</p>
+            <p>After that fight where we loſt onely on man a Lievetenant of ſir <hi>Simon Harcots</hi> Regiment whoſe name was Lieftenant <hi>Sparke,</hi> under Cap<g ref="char:EOLhyphen"/>taine <hi>Verneth.</hi> The Pinnace ſtood on ground un<g ref="char:EOLhyphen"/>till Munday, and the Rebells fearing the Gra<g ref="char:EOLhyphen"/>nadoes, durſt not attempt him any more, ſo Captaine <hi>Studley</hi> with his Pinnace came away and arrived here laſt night.</p>
+         </div>
+         <div type="report">
+            <pb facs="tcp:32561:4"/>
+            <opener>
+               <dateline>Dublin <date>the twen<g ref="char:EOLhyphen"/>tieth Eighth of <hi>January.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THe rebels reaſaulted Tredarth the next day after the repulſe, notwith<g ref="char:EOLhyphen"/>ſtanding their loſſe and danger, but Sir Henry Tichborne entertained them with a fuller breakfaſt then ſupper, the night before he ſlewe 800 of them or as moſt conſent 600 of them, he tooke fiftie Friers and Preiſtes and hanged them, and although it may ſeeme ſtrange that ſoe many Graſehoppers ſhould be together in one place yet it is the leſſe Mar<g ref="char:EOLhyphen"/>vell ſince all the Papiſts are confident that their ſonne is riſeing in <hi>Ireland</hi> and to ſhine full upon them.</p>
+            <p>There was a command of horſe laſt night ap<g ref="char:EOLhyphen"/>pointed at Dublin to ſurpriſe the Rebbels that Lay under the mountaines, &amp; neere it in their kenells; but the ſerpents in our owne boſomes the faithfull Inteligence from the Papiſt in Dublin, is ſuch, that the Rebbels haue notice of everie perticuler in our deſigne before we
+<pb n="7" facs="tcp:32561:4"/>can acte any thing 300. of them tooke to their beſt helpe their <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>les, and fled to the mountaines for fiue or ſixe miles together but our Soldiers killed eight of them that lay to longe in their Caues; Fortie of the Rebbels entered a Caſtle there with, in that we wanted materialls we could not goe further, but in the enterpriſe we loſt ſiue of our horſes and one man ſhort, yet by good happ we regaind fiue of theirs and remounted onr men and re<g ref="char:EOLhyphen"/>turned to Dublin, haueing prevented the neſl<g ref="char:EOLhyphen"/>ing of the Rebels nerethe towne to make our owne ſlepe the more ſound and ſecure.</p>
+            <p>Three Captaines of every regiment are ap<g ref="char:EOLhyphen"/>pointed to ſerch the Citie of dublin amongſt the Papiſts, for amunition and victualles to diſtribute amonge the Soldiers, by which many are like to fare the better, and noe dout but the Cookes will lick theire owne fingers.</p>
+            <p>They begin to want money at Dublin ſoe as euery houſe keeper is comanded to keepe a fitt number of the Soldiers proportionable to their eſtates until ſupply of mony and vi<g ref="char:EOLhyphen"/>ctualls come from <hi>England</hi> which God ſpeed<g ref="char:EOLhyphen"/>ly grant, <hi>Vale.</hi>
+            </p>
+            <closer>
+               <pb facs="tcp:32561:5"/>
+            </closer>
+            <postscript>
+               <head>The Gentlemens names that received theſe Letters.</head>
+               <p>Maſter
+<list>
+                     <item>Henry Tichborne.</item>
+                     <item>Charles Latham.</item>
+                     <item>Iohn Studley.</item>
+                     <item>George Wilford.</item>
+                  </list>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32561:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
